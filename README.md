@@ -1,9 +1,9 @@
 # Linux_PASSWORD_MANAGER
 ## 動作環境
-・仕様PC:mac M1チップ
+・仕様PC:　mac M1チップ
 
-・Linux環境:UTM
+・Linux環境:　UTM
 
-・Linuxディストリビューション:Ubuntu
+・Linuxディストリビューション:　Ubuntu
 
-・暗号化ツール:GnuPG
+・暗号化ツール:　GnuPG
